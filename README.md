@@ -1,11 +1,5 @@
 # 🏨 Hotel Booking Business Intelligence & Data Mining
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-Data_Extraction-orange.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Orange-Data_Mining-green.svg?style=for-the-badge&logo=target&logoColor=white" alt="Orange">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg?style=for-the-badge" alt="Status">
-</p>
 
 ---
 
@@ -87,7 +81,7 @@ This project provides a **comprehensive end-to-end analysis** of hotel booking d
 
 ---
 
-## 👤 Author Group
+## 👤 Authors
 
 <div align="center">
 
@@ -97,13 +91,6 @@ This project provides a **comprehensive end-to-end analysis** of hotel booking d
 ### **Mostafa Abdullah Shawkey**
 ### **Mostafa Hassan Abdulaziz**
 
-> **Data Analyst | Business Intelligence Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](رابط_لينكد_إن_هنا)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ايميلك_هنا)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](رابط_بورتفوليو_أو_جيت_هاب)
-
----
 
 
 </div>
